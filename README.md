@@ -1,4 +1,4 @@
-Reto junior propuesto en Fronted Mentor
+Mi solucion a reto fronted junior propuesto en Fronted Mentor
 
 # Frontend Mentor - Time tracking dashboard
 
